@@ -1,0 +1,688 @@
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.000129   totTime: 0.002458 
+avgBodyForceTime: 0.117684   totBodyForceTime: 2.236000 
+avgBodyFracForceTime: 0.002895   totBodyFracForceTime: 0.055000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140304643018752",
+      "regions":[
+        {
+          "gpu1":{
+            "region_count":"1",
+            "cycles":"7391176",
+            "perf::TASK-CLOCK":"2376740",
+            "PAPI_TOT_INS":"16649361",
+            "PAPI_TOT_CYC":"8305730",
+            "PAPI_VEC_SP":"94383",
+            "PAPI_SP_OPS":"94383"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.001105   totTime: 0.020994 
+avgBodyForceTime: 1.056263   totBodyForceTime: 20.069000 
+avgBodyFracForceTime: 0.003263   totBodyFracForceTime: 0.062000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140396008337408",
+      "regions":[
+        {
+          "gpu1":{
+            "region_count":"1",
+            "cycles":"62885896",
+            "perf::TASK-CLOCK":"20562314",
+            "PAPI_TOT_INS":"163206479",
+            "PAPI_TOT_CYC":"73441555",
+            "PAPI_VEC_SP":"952572",
+            "PAPI_SP_OPS":"952572"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.023960   totTime: 0.455244 
+avgBodyForceTime: 23.524211   totBodyForceTime: 446.960000 
+avgBodyFracForceTime: 0.005526   totBodyFracForceTime: 0.105000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140190288113664",
+      "regions":[
+        {
+          "gpu1":{
+            "region_count":"1",
+            "cycles":"1362609876",
+            "perf::TASK-CLOCK":"439116373",
+            "PAPI_TOT_INS":"3845288868",
+            "PAPI_TOT_CYC":"1573560397",
+            "PAPI_VEC_SP":"14901576",
+            "PAPI_SP_OPS":"14901576"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.604430   totTime: 11.484170 
+avgBodyForceTime: 602.411211   totBodyForceTime: 11445.813000 
+avgBodyFracForceTime: 0.011368   totBodyFracForceTime: 0.216000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139930751553536",
+      "regions":[
+        {
+          "gpu1":{
+            "region_count":"1",
+            "cycles":"34371670684",
+            "perf::TASK-CLOCK":"11452153256",
+            "PAPI_TOT_INS":"100543980069",
+            "PAPI_TOT_CYC":"41059239420",
+            "PAPI_VEC_SP":"271409253",
+            "PAPI_SP_OPS":"271409253"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.000116   totTime: 0.002206 
+avgBodyForceTime: 0.112211   totBodyForceTime: 2.132000 
+avgBodyFracForceTime: 0.002684   totBodyFracForceTime: 0.051000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140544876027904",
+      "regions":[
+        {
+          "gpu2":{
+            "region_count":"1",
+            "cycles":"6635726",
+            "perf::TASK-CLOCK":"2217122",
+            "PAPI_TOT_INS":"16142415",
+            "PAPI_TOT_CYC":"7943365",
+            "PAPI_VEC_SP":"150018",
+            "PAPI_SP_OPS":"150018"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.001094   totTime: 0.020786 
+avgBodyForceTime: 1.061684   totBodyForceTime: 20.172000 
+avgBodyFracForceTime: 0.003368   totBodyFracForceTime: 0.064000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140116512428032",
+      "regions":[
+        {
+          "gpu2":{
+            "region_count":"1",
+            "cycles":"62274422",
+            "perf::TASK-CLOCK":"20806398",
+            "PAPI_TOT_INS":"168461205",
+            "PAPI_TOT_CYC":"74595063",
+            "PAPI_VEC_SP":"1531437",
+            "PAPI_SP_OPS":"1531437"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.023271   totTime: 0.442147 
+avgBodyForceTime: 22.934842   totBodyForceTime: 435.762000 
+avgBodyFracForceTime: 0.005158   totBodyFracForceTime: 0.098000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139982859821056",
+      "regions":[
+        {
+          "gpu2":{
+            "region_count":"1",
+            "cycles":"1323411216",
+            "perf::TASK-CLOCK":"442092972",
+            "PAPI_TOT_INS":"3825067241",
+            "PAPI_TOT_CYC":"1585008887",
+            "PAPI_VEC_SP":"20510982",
+            "PAPI_SP_OPS":"20510982"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.587341   totTime: 11.159476 
+avgBodyForceTime: 585.673842   totBodyForceTime: 11127.803000 
+avgBodyFracForceTime: 0.011316   totBodyFracForceTime: 0.215000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139650439921664",
+      "regions":[
+        {
+          "gpu2":{
+            "region_count":"1",
+            "cycles":"33399907572",
+            "perf::TASK-CLOCK":"11158139725",
+            "PAPI_TOT_INS":"97262246423",
+            "PAPI_TOT_CYC":"40002199403",
+            "PAPI_VEC_SP":"291754104",
+            "PAPI_SP_OPS":"291754104"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.000092   totTime: 0.001753 
+avgBodyForceTime: 0.088368   totBodyForceTime: 1.679000 
+avgBodyFracForceTime: 0.002737   totBodyFracForceTime: 0.052000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140426670972928",
+      "regions":[
+        {
+          "gpu3":{
+            "region_count":"1",
+            "cycles":"4997552",
+            "perf::TASK-CLOCK":"1669580",
+            "PAPI_TOT_INS":"12002119",
+            "PAPI_TOT_CYC":"5979051",
+            "PAPI_VEC_SP":"134154",
+            "PAPI_SP_OPS":"134154"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.000751   totTime: 0.014269 
+avgBodyForceTime: 0.718684   totBodyForceTime: 13.655000 
+avgBodyFracForceTime: 0.003316   totBodyFracForceTime: 0.063000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140178079588352",
+      "regions":[
+        {
+          "gpu3":{
+            "region_count":"1",
+            "cycles":"40504040",
+            "perf::TASK-CLOCK":"13532259",
+            "PAPI_TOT_INS":"105106713",
+            "PAPI_TOT_CYC":"48483726",
+            "PAPI_VEC_SP":"1318902",
+            "PAPI_SP_OPS":"1318902"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.022607   totTime: 0.429535 
+avgBodyForceTime: 22.274000   totBodyForceTime: 423.206000 
+avgBodyFracForceTime: 0.005105   totBodyFracForceTime: 0.097000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140020990369792",
+      "regions":[
+        {
+          "gpu3":{
+            "region_count":"1",
+            "cycles":"1217881508",
+            "perf::TASK-CLOCK":"406850366",
+            "PAPI_TOT_INS":"3390890478",
+            "PAPI_TOT_CYC":"1458534843",
+            "PAPI_VEC_SP":"18867546",
+            "PAPI_SP_OPS":"18867546"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.556127   totTime: 10.566415 
+avgBodyForceTime: 554.478105   totBodyForceTime: 10535.084000 
+avgBodyFracForceTime: 0.010632   totBodyFracForceTime: 0.202000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139990281175040",
+      "regions":[
+        {
+          "gpu3":{
+            "region_count":"1",
+            "cycles":"29988053570",
+            "perf::TASK-CLOCK":"10018642572",
+            "PAPI_TOT_INS":"87351684320",
+            "PAPI_TOT_CYC":"35922116950",
+            "PAPI_VEC_SP":"264796986",
+            "PAPI_SP_OPS":"264796986"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+avgTime: 0.000094   totTime: 0.001782 
+avgBodyForceTime: 0.090421   totBodyForceTime: 1.718000 
+avgBodyFracForceTime: 0.002895   totBodyFracForceTime: 0.055000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139705553952768",
+      "regions":[
+        {
+          "gpu4":{
+            "region_count":"1",
+            "cycles":"5094758",
+            "perf::TASK-CLOCK":"1702146",
+            "PAPI_TOT_INS":"10932191",
+            "PAPI_TOT_CYC":"6100995",
+            "PAPI_VEC_SP":"131592",
+            "PAPI_SP_OPS":"131592"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+avgTime: 0.000747   totTime: 0.014197 
+avgBodyForceTime: 0.714474   totBodyForceTime: 13.575000 
+avgBodyFracForceTime: 0.003211   totBodyFracForceTime: 0.061000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"140024437760000",
+      "regions":[
+        {
+          "gpu4":{
+            "region_count":"1",
+            "cycles":"40254664",
+            "perf::TASK-CLOCK":"13449123",
+            "PAPI_TOT_INS":"103004620",
+            "PAPI_TOT_CYC":"48204693",
+            "PAPI_VEC_SP":"1313841",
+            "PAPI_SP_OPS":"1313841"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+avgTime: 0.022606   totTime: 0.429511 
+avgBodyForceTime: 22.274316   totBodyForceTime: 423.212000 
+avgBodyFracForceTime: 0.004842   totBodyFracForceTime: 0.092000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139870964977664",
+      "regions":[
+        {
+          "gpu4":{
+            "region_count":"1",
+            "cycles":"1217799868",
+            "perf::TASK-CLOCK":"406832868",
+            "PAPI_TOT_INS":"3414269739",
+            "PAPI_TOT_CYC":"1458734894",
+            "PAPI_VEC_SP":"18924273",
+            "PAPI_SP_OPS":"18924273"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+avgTime: 0.557697   totTime: 10.596252 
+avgBodyForceTime: 556.056368   totBodyForceTime: 10565.071000 
+avgBodyFracForceTime: 0.009579   totBodyFracForceTime: 0.182000 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"4000",
+  "threads":[
+    {
+      "id":"139700676116480",
+      "regions":[
+        {
+          "gpu4":{
+            "region_count":"1",
+            "cycles":"30095720156",
+            "perf::TASK-CLOCK":"10054649101",
+            "PAPI_TOT_INS":"84703558437",
+            "PAPI_TOT_CYC":"36051621852",
+            "PAPI_VEC_SP":"258384849",
+            "PAPI_SP_OPS":"258384849"
+          }
+        }
+      ]
+    }
+  ]
+}
+

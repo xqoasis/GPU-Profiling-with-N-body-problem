@@ -1,0 +1,198 @@
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 47.891633   totTime: 909.941022 
+avgBodyForceTime: 47.891455   totBodyForceTime: 909.937639 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140158320461760",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"2723407939394",
+            "PAPI_SP_OPS":"3610022800000",
+            "PAPI_DP_OPS":"278"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 23.985345   totTime: 455.721559 
+avgBodyForceTime: 23.984855   totBodyForceTime: 455.712251 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 11.998008   totTime: 227.962158 
+avgBodyForceTime: 11.997541   totBodyForceTime: 227.953280 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 6.002959   totTime: 114.056227 
+avgBodyForceTime: 6.002480   totBodyForceTime: 114.047128 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 3.004758   totTime: 57.090410 
+avgBodyForceTime: 3.004320   totBodyForceTime: 57.082078 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.505574   totTime: 28.605907 
+avgBodyForceTime: 1.505136   totBodyForceTime: 28.597580 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.006517   totTime: 19.123815 
+avgBodyForceTime: 1.006027   totBodyForceTime: 19.114522 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.005879   totTime: 19.111695 
+avgBodyForceTime: 1.005462   totBodyForceTime: 19.103785 

@@ -1,0 +1,176 @@
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.119736   totTime: 2.274993 
+avgBodyForceTime: 0.119728   totBodyForceTime: 2.274832 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.256547   totTime: 4.874387 
+avgBodyForceTime: 0.256505   totBodyForceTime: 4.873597 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.506634   totTime: 9.626052 
+avgBodyForceTime: 0.506540   totBodyForceTime: 9.624260 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.966996   totTime: 18.372918 
+avgBodyForceTime: 0.966806   totBodyForceTime: 18.369318 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.925527   totTime: 36.585005 
+avgBodyForceTime: 1.925153   totBodyForceTime: 36.577904 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 3.845564   totTime: 73.065716 
+avgBodyForceTime: 3.844753   totBodyForceTime: 73.050312 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 5.767520   totTime: 109.582872 
+avgBodyForceTime: 5.766319   totBodyForceTime: 109.560059 
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 10.250363   totTime: 194.756898 
+avgBodyForceTime: 10.248730   totBodyForceTime: 194.725867 

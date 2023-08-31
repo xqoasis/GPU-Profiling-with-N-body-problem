@@ -1,0 +1,294 @@
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.006295   totTime: 19.119609 
+avgBodyForceTime: 1.005846   totBodyForceTime: 19.111073 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140078845016000",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"57224120190",
+            "PAPI_L1_TCM":"713359351",
+            "PAPI_LD_INS":"11397986393",
+            "PAPI_SR_INS":"5916924",
+            "PAPI_L2_TCM":"711034353",
+            "PAPI_L2_TCA":"1675024",
+            "PAPI_L3_TCA":"711034353",
+            "PAPI_L3_TCM":"1053156"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.005991   totTime: 19.113824 
+avgBodyForceTime: 1.005512   totBodyForceTime: 19.104724 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"139670924793792",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"57206871282",
+            "PAPI_L1_TCM":"361533644",
+            "PAPI_LD_INS":"5775844847",
+            "PAPI_SR_INS":"5872722",
+            "PAPI_L2_TCM":"359553724",
+            "PAPI_L2_TCA":"985670",
+            "PAPI_L3_TCA":"359553724",
+            "PAPI_L3_TCM":"949751"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 12.000217   totTime: 228.004121 
+avgBodyForceTime: 11.999719   totBodyForceTime: 227.994667 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"139851544700864",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"682403512004",
+            "PAPI_L1_TCM":"17824839687",
+            "PAPI_LD_INS":"284998581962",
+            "PAPI_SR_INS":"9983354",
+            "PAPI_L2_TCM":"17830718801",
+            "PAPI_L2_TCA":"23970534",
+            "PAPI_L3_TCA":"17830718801",
+            "PAPI_L3_TCM":"9972255"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 6.002972   totTime: 114.056463 
+avgBodyForceTime: 6.002492   totBodyForceTime: 114.047344 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140653291894720",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"341364596060",
+            "PAPI_L1_TCM":"8912753022",
+            "PAPI_LD_INS":"142486098577",
+            "PAPI_SR_INS":"7848156",
+            "PAPI_L2_TCM":"8921824764",
+            "PAPI_L2_TCA":"14122180",
+            "PAPI_L3_TCA":"8921824764",
+            "PAPI_L3_TCM":"4837046"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 3.005499   totTime: 57.104476 
+avgBodyForceTime: 3.004995   totBodyForceTime: 57.094906 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"139672304793536",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"170910829944",
+            "PAPI_L1_TCM":"4456625410",
+            "PAPI_LD_INS":"71234018858",
+            "PAPI_SR_INS":"6784410",
+            "PAPI_L2_TCM":"4459831048",
+            "PAPI_L2_TCA":"7962948",
+            "PAPI_L3_TCA":"4459831048",
+            "PAPI_L3_TCM":"2991394"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.505486   totTime: 28.604240 
+avgBodyForceTime: 1.505025   totBodyForceTime: 28.595479 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140512080365504",
+      "regions":[
+        {
+          "cpu_multicore":{
+            "region_count":"1",
+            "cycles":"85611098434",
+            "PAPI_L1_TCM":"2229526337",
+            "PAPI_LD_INS":"35629617337",
+            "PAPI_SR_INS":"6260420",
+            "PAPI_L2_TCM":"2232200988",
+            "PAPI_L2_TCA":"4497932",
+            "PAPI_L3_TCA":"2232200988",
+            "PAPI_L3_TCM":"1722848"
+          }
+        }
+      ]
+    }
+  ]
+}
+

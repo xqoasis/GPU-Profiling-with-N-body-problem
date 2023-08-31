@@ -1,0 +1,245 @@
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.119582   totTime: 2.272054 
+avgBodyForceTime: 0.119573   totBodyForceTime: 2.271895 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140240567162816",
+      "regions":[
+        {
+          "cpu_serial":{
+            "region_count":"1",
+            "cycles":"6800175910",
+            "PAPI_L1_TCM":"178056209",
+            "PAPI_LD_INS":"2850861439",
+            "PAPI_SR_INS":"573386",
+            "PAPI_L2_TCM":"2554",
+            "PAPI_L2_TCA":"298867",
+            "PAPI_L3_TCA":"2554",
+            "PAPI_L3_TCM":"72"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 0.478262   totTime: 9.086978 
+avgBodyForceTime: 0.478245   totBodyForceTime: 9.086659 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140110231562176",
+      "regions":[
+        {
+          "cpu_serial":{
+            "region_count":"1",
+            "cycles":"27196851380",
+            "PAPI_L1_TCM":"712483830",
+            "PAPI_LD_INS":"11401718259",
+            "PAPI_SR_INS":"1143386",
+            "PAPI_L2_TCM":"5194",
+            "PAPI_L2_TCA":"531626",
+            "PAPI_L3_TCA":"5194",
+            "PAPI_L3_TCM":"174"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 1.912818   totTime: 36.343544 
+avgBodyForceTime: 1.912785   totBodyForceTime: 36.342910 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140386636908480",
+      "regions":[
+        {
+          "cpu_serial":{
+            "region_count":"1",
+            "cycles":"108774162790",
+            "PAPI_L1_TCM":"2850184315",
+            "PAPI_LD_INS":"45603434951",
+            "PAPI_SR_INS":"2283387",
+            "PAPI_L2_TCM":"17767",
+            "PAPI_L2_TCA":"1925568",
+            "PAPI_L3_TCA":"17767",
+            "PAPI_L3_TCM":"341"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 7.656597   totTime: 145.475346 
+avgBodyForceTime: 7.656529   totBodyForceTime: 145.474057 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140654990092224",
+      "regions":[
+        {
+          "cpu_serial":{
+            "region_count":"1",
+            "cycles":"435399395884",
+            "PAPI_L1_TCM":"11400915751",
+            "PAPI_LD_INS":"182406885783",
+            "PAPI_SR_INS":"4563386",
+            "PAPI_L2_TCM":"2834242438",
+            "PAPI_L2_TCA":"6858444",
+            "PAPI_L3_TCA":"2834242438",
+            "PAPI_L3_TCM":"1066"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+iteration:1
+iteration:2
+iteration:3
+iteration:4
+iteration:5
+iteration:6
+iteration:7
+iteration:8
+iteration:9
+iteration:10
+iteration:11
+iteration:12
+iteration:13
+iteration:14
+iteration:15
+iteration:16
+iteration:17
+iteration:18
+iteration:19
+iteration:20
+avgTime: 30.653688   totTime: 582.420074 
+avgBodyForceTime: 30.653546   totBodyForceTime: 582.417370 
+
+
+PAPI-HL Output:
+{
+  "cpu in mhz":"3000",
+  "threads":[
+    {
+      "id":"140123687995328",
+      "regions":[
+        {
+          "cpu_serial":{
+            "region_count":"1",
+            "cycles":"1743150448056",
+            "PAPI_L1_TCM":"45611047723",
+            "PAPI_LD_INS":"729613835665",
+            "PAPI_SR_INS":"9123386",
+            "PAPI_L2_TCM":"45605974888",
+            "PAPI_L2_TCA":"37914606",
+            "PAPI_L3_TCA":"45605974888",
+            "PAPI_L3_TCM":"23633"
+          }
+        }
+      ]
+    }
+  ]
+}
+
